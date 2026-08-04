@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,9 +16,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0064-minimum-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

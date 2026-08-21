@@ -1,19 +1,21 @@
 class Solution {
 
-    private int solve(int[] nums, int target, int index) {
+    private int solve(int[] nums, int target, int index, int[][] dp) {
 
         if(index==0){
             if(target == 0 && nums[index]==0) return 2;
             if(target == 0 || nums[index]==target) return 1;
             return 0;
         }
+        if(dp[index][target] !=-1)
+            return dp[index][target];
 
         int take = 0;
         if(nums[index]<=target)
-            take = solve(nums, target-nums[index], index-1);
-        int notTake = solve(nums, target, index-1);
+            take = solve(nums, target-nums[index], index-1, dp);
+        int notTake = solve(nums, target, index-1, dp);
 
-        return take + notTake;
+        return dp[index][target] = take + notTake;
 
     }
 
@@ -36,9 +38,15 @@ class Solution {
 
         //target =  (D+totalSum)/2     
         //sol => find the number of ways to find the target  
+        target = Math.abs(target);
         if(target>totalSum || (target+totalSum)%2 !=0)
             return 0;
-        return solve(nums, (target+totalSum)/2, nums.length-1);
+
+        int[][] dp = new int[nums.length][totalSum+1];
+        for(int[] arr : dp)
+            Arrays.fill(arr, -1);
+
+        return solve(nums, (target+totalSum)/2, nums.length-1, dp);
 
     }
 }

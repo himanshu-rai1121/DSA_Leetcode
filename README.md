@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0518-coin-change-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0518-coin-change-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0518-coin-change-ii) |
 ## Backtracking
 |  |
 | ------- |

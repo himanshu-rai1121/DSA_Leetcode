@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 ## Matrix
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/himanshu-rai1121/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
